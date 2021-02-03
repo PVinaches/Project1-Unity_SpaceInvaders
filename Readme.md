@@ -1,4 +1,4 @@
-### SpaceShip Game Center
+### SpaceShip Game
 This game is my first game project for the "Introduction to 2D Games in Unity" course by PET-CC UFRN, based on their youtube videos.
 
 #### Usage
